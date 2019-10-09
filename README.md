@@ -5,8 +5,9 @@
 ### Author: Luke Donahue
 
 ### Links and Resources
-* [submission PR](https://github.com/alexspencer-401-advanced-javascript/user-mgmt-auth/pull/1)
-* [travis](https://travis-ci.com/alexspencer-401-advanced-javascript/user-mgmt-auth/builds/130740328)
+* [submission PR](https://github.com/Luke9389-career-track/user-management-and-auth/compare/admin?expand=1)
+* [travis](https://www.travis-ci.com/Luke9389-career-track/user-management-and-auth/jobs/243645269)
+* [heroku] (https://dashboard.heroku.com/apps/stormy-fjord-72409)
 
 ### Setup
 #### `.env` requirements
