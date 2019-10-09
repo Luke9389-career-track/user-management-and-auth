@@ -1,6 +1,6 @@
 const request = require('../request');
 const db = require('../db');
-const { signupUser } = require('../data-helpers');
+const { signupAdmin } = require('../data-helpers');
 
 describe('animals api', () => {
 
@@ -13,7 +13,7 @@ describe('animals api', () => {
 
   let user = null;
   beforeEach(() => {
-    return signupUser().then(newUser => (user = newUser));
+    return signupAdmin().then(newUser => (user = newUser));
   });
 
   const elephant = {

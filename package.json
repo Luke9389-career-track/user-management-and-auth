@@ -14,6 +14,7 @@
     "test:watch": "npm run jest -- --watchAll",
     "test:verbose": "npm run test -- --verbose",
     "start": "node server.js",
+    "make:admin": "node scripts/make-admin.js",
     "start:watch": "nodemon server.js"
   },
   "keywords": [],
